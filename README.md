@@ -8,4 +8,4 @@ This project shows:
  The final map result is:
  
  
-![map1](earthquake_data.PNG)
+![map1](Earthquake_Data.PNG)
